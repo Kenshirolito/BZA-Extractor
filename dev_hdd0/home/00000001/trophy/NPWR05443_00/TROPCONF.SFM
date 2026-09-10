@@ -1,0 +1,232 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000cefcfd1365e1985a92a9b0fe44b5d47a79e3c5805eaff06b2f91f8993688d745fcd5b8056125ffe00c4f6ec959e433606b60b36a2ee31921b9f83cb1900704a0c1249b33974e804e75ce994dd7c32eb95ec60471eee37c6e570a978f799b6538777d26e466f62d364e609e9be70320ad14c203dc490795ebe7529d48fef306abc0e6358d43eac966c864f5f5ab5dbdc031b0c60f-->
+<trophyconf version="1.1" platform="ps3,ps4" policy="large">
+ <npcommid>NPWR05443_00</npcommid>
+ <trophyset-version>01.01</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>龍が如く 維新！</title-name>
+ <title-detail>龍が如く 維新！のトロフィーセット</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>龍が如く 維新！</name>
+  <detail>トロフィーを全て揃えた</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>土佐に見参！</name>
+  <detail>土佐に初めて訪れた</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>ストーリークリア・壱</name>
+  <detail>第二章をクリアした</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>ストーリークリア・弐</name>
+  <detail>第四章をクリアした</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>ストーリークリア・参</name>
+  <detail>第六章をクリアした</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>ストーリークリア・四</name>
+  <detail>第八章をクリアした</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>ストーリークリア・伍</name>
+  <detail>第十章をクリアした</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>ストーリークリア・六</name>
+  <detail>第十二章をクリアした</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="S" pid="000">
+  <name>感謝-スタッフ一同-</name>
+  <detail>最終章をクリアした</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="G" pid="000">
+  <name>本編、極めし者</name>
+  <detail>ゲーム本編を達人級でクリアした</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="S" pid="000">
+  <name>究極、極めし者</name>
+  <detail>究極闘技を全てクリアした</detail>
+ </trophy>
+ <trophy id="011" hidden="no" ttype="B" pid="000">
+  <name>夢、半ば</name>
+  <detail>ポーズメニューのコンプリート率が５０%に達した</detail>
+ </trophy>
+ <trophy id="012" hidden="no" ttype="G" pid="000">
+  <name>夢、叶えし者</name>
+  <detail>ポーズメニューのコンプリート率が１００%になった</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>徳をつんだ男</name>
+  <detail>取得した徳が累計で１００００に到達</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="B" pid="000">
+  <name>さらに徳をつんだ男</name>
+  <detail>取得した徳が累計５００００に到達</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>本当に徳をつんだ男</name>
+  <detail>取得した徳が累計１０００００に到達</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="S" pid="000">
+  <name>徳の神</name>
+  <detail>取得した徳が累計３０００００に到達</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>精進した男</name>
+  <detail>精進目録を５個達成した</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>さらに精進した男</name>
+  <detail>精進目録を２０個達成した</detail>
+ </trophy>
+ <trophy id="019" hidden="no" ttype="B" pid="000">
+  <name>本当に精進した男</name>
+  <detail>精進目録を５０個達成した</detail>
+ </trophy>
+ <trophy id="020" hidden="no" ttype="S" pid="000">
+  <name>精進神</name>
+  <detail>全ての精進目録を達成した</detail>
+ </trophy>
+ <trophy id="021" hidden="no" ttype="B" pid="000">
+  <name>はじめてのお友達</name>
+  <detail>はじめて人・動物との絆を達成した</detail>
+ </trophy>
+ <trophy id="022" hidden="no" ttype="B" pid="000">
+  <name>人類皆兄弟</name>
+  <detail>全ての人・動物との絆を達成した</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>巷で噂のお兄さん</name>
+  <detail>どこか一つの街で評判が最高ランクになった</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="B" pid="000">
+  <name>京の飯屋は俺に聞け</name>
+  <detail>全ての飲食店で注文をした</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="B" pid="000">
+  <name>サブストーリー１０</name>
+  <detail>１０個のサブストーリーを「完」にした</detail>
+ </trophy>
+ <trophy id="026" hidden="no" ttype="B" pid="000">
+  <name>サブストーリー４０</name>
+  <detail>４０個のサブストーリーを「完」にした</detail>
+ </trophy>
+ <trophy id="027" hidden="no" ttype="B" pid="000">
+  <name>サブストーリー制覇！</name>
+  <detail>全てのサブストーリーを「完」にした</detail>
+ </trophy>
+ <trophy id="028" hidden="no" ttype="B" pid="000">
+  <name>学べるものは学んどけ</name>
+  <detail>それぞれの師匠で修行ミッションを１つクリアした</detail>
+ </trophy>
+ <trophy id="029" hidden="no" ttype="B" pid="000">
+  <name>成長は数珠繋ぎ</name>
+  <detail>魂球を使って１０個能力を獲得した</detail>
+ </trophy>
+ <trophy id="030" hidden="no" ttype="B" pid="000">
+  <name>お前はまだまだ伸びる</name>
+  <detail>龍馬のレベルが５０になった</detail>
+ </trophy>
+ <trophy id="031" hidden="no" ttype="S" pid="000">
+  <name>己の限界を超えて</name>
+  <detail>龍馬のレベルを限界突破した</detail>
+ </trophy>
+ <trophy id="032" hidden="no" ttype="B" pid="000">
+  <name>闘技場は俺の庭</name>
+  <detail>闘技場にて、累計で１０勝した</detail>
+ </trophy>
+ <trophy id="033" hidden="no" ttype="B" pid="000">
+  <name>我、天啓を得たり</name>
+  <detail>全ての天啓を終えた</detail>
+ </trophy>
+ <trophy id="034" hidden="no" ttype="B" pid="000">
+  <name>弘法、筆にこだわる</name>
+  <detail>武具を１００回合成した</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>絶技職人</name>
+  <detail>究極闘技以外で絶技で累計１００人撃破した</detail>
+ </trophy>
+ <trophy id="036" hidden="no" ttype="B" pid="000">
+  <name>ダンジョン初心者</name>
+  <detail>バトルダンジョンに累計３回もぐった</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>野盗の洞窟</name>
+  <detail>バトルダンジョン「野盗の洞窟」をクリアした</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>義賊の廃鉱</name>
+  <detail>バトルダンジョン「義賊の廃鉱」をクリアした</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>豊臣家残党</name>
+  <detail>バトルダンジョン「豊臣家残党」をクリアした</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>少年よ、隊士を抱け</name>
+  <detail>隊士を１００人集めた</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>天狗狩り</name>
+  <detail>橘組の依頼で天狗をこらしめた</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>農家見習い</name>
+  <detail>１０種類の野菜を育てた</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>日替わり献立</name>
+  <detail>７種類の料理を作った</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="B" pid="000">
+  <name>ぼろ儲け入門</name>
+  <detail>注文取引を１０件取引成立させた</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="B" pid="000">
+  <name>駆け出し釣り人</name>
+  <detail>合計１０匹の魚を釣った</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>穏やかな我が家</name>
+  <detail>別宅室内での和みイベントをどれか１つ見た</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>借金返済！</name>
+  <detail>遥の抱えた借金を全て返済した</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>俺色に染まれ</name>
+  <detail>別宅の化粧台で部屋の壁紙変更を行った</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>遊びを知りつくした男</name>
+  <detail>全てのプレイスポットで遊んだ</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>俺は博打うち</name>
+  <detail>賭場の遊びを全てプレイした</detail>
+ </trophy>
+ <trophy id="051" hidden="no" ttype="B" pid="000">
+  <name>働いて気づくお金の尊さ</name>
+  <detail>うどん屋の手伝いで売り上げを１０両稼いだ</detail>
+ </trophy>
+ <trophy id="052" hidden="no" ttype="B" pid="000">
+  <name>歌える男</name>
+  <detail>歌声酒場の楽曲を全曲プレイした</detail>
+ </trophy>
+ <trophy id="053" hidden="no" ttype="B" pid="000">
+  <name>踊れる男</name>
+  <detail>日本舞踊の楽曲を全曲プレイした</detail>
+ </trophy>
+ <trophy id="054" hidden="no" ttype="B" pid="000">
+  <name>鶏に金と夢をのせて</name>
+  <detail>競鶏で点数を賭けた試合が累計５戦になった</detail>
+ </trophy>
+ <trophy id="055" hidden="no" ttype="B" pid="000">
+  <name>天に昇る龍が如く</name>
+  <detail>お座敷遊びを初めて通してクリアした</detail>
+ </trophy>
+</trophyconf>

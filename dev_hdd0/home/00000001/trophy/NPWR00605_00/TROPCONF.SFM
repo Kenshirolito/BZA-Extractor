@@ -1,0 +1,212 @@
+<!--Sce-Np-Trophy-Signature: 4c39b98c0100000000000000b2ad94bff9bb28e46db5e3cf17274d00396bbf5503640a0b1396a7ac1c96ebc166ed09b2dae3434a1529d4e9bb4cdba719d380499f599fbbc67b05e30edf9da0d0e03b7528302466282af957a002b7eae3f3d995436911c99067660de743488f92b6e27cadd2711bb02c92219f790a018aaebe17ed3a8fb315646c6a7492ec1e02f50c6e7a9d368099619e34fbf9897eaefef54f-->
+<trophyconf version="1.1">
+ <npcommid>NPWR00605_00</npcommid>
+ <trophyset-version>01.02</trophyset-version>
+ <parental-level license-area="default">0</parental-level>
+ <title-name>QUANTUM THEORY</title-name>
+ <title-detail>QUANTUM THEORY</title-detail>
+ <trophy id="000" hidden="no" ttype="P" pid="-1">
+  <name>Encarnación de la destrucción</name>
+  <detail>Conseguir todos los trofeos.</detail>
+ </trophy>
+ <trophy id="001" hidden="yes" ttype="B" pid="000">
+  <name>Desgarra la piel</name>
+  <detail>Terminar La raíz de la torre.</detail>
+ </trophy>
+ <trophy id="002" hidden="yes" ttype="B" pid="000">
+  <name>Entre vísceras</name>
+  <detail>Terminar Tráquea.</detail>
+ </trophy>
+ <trophy id="003" hidden="yes" ttype="B" pid="000">
+  <name>Xilema</name>
+  <detail>Terminar Reactor luminosintético 2.</detail>
+ </trophy>
+ <trophy id="004" hidden="yes" ttype="B" pid="000">
+  <name>Feto</name>
+  <detail>Terminar La matriz.</detail>
+ </trophy>
+ <trophy id="005" hidden="yes" ttype="B" pid="000">
+  <name>Despejar la mente</name>
+  <detail>Terminar Cavitas Cranii.</detail>
+ </trophy>
+ <trophy id="006" hidden="yes" ttype="B" pid="000">
+  <name>Iluminación</name>
+  <detail>Terminar la historia.</detail>
+ </trophy>
+ <trophy id="007" hidden="yes" ttype="B" pid="000">
+  <name>Moratón</name>
+  <detail>Terminar La raíz de la torre en Difícil.</detail>
+ </trophy>
+ <trophy id="008" hidden="yes" ttype="B" pid="000">
+  <name>Trauma interno</name>
+  <detail>Terminar Tráquea en Difícil.</detail>
+ </trophy>
+ <trophy id="009" hidden="yes" ttype="B" pid="000">
+  <name>Floema</name>
+  <detail>Terminar Reactor luminosintético 2 en Difícil.</detail>
+ </trophy>
+ <trophy id="010" hidden="yes" ttype="B" pid="000">
+  <name>Parto de nalgas</name>
+  <detail>Terminar La matriz en Difícil.</detail>
+ </trophy>
+ <trophy id="011" hidden="yes" ttype="B" pid="000">
+  <name>Hematoma subdural</name>
+  <detail>Terminar Cavitas Cranii en Difícil.</detail>
+ </trophy>
+ <trophy id="012" hidden="yes" ttype="S" pid="000">
+  <name>Muerte y renacimiento</name>
+  <detail>Terminar la historia en Difícil.</detail>
+ </trophy>
+ <trophy id="013" hidden="no" ttype="B" pid="000">
+  <name>Cazador</name>
+  <detail>Matar a 500 enemigos.</detail>
+ </trophy>
+ <trophy id="014" hidden="no" ttype="G" pid="000">
+  <name>Predador</name>
+  <detail>Matar a 1000 enemigos.</detail>
+ </trophy>
+ <trophy id="015" hidden="no" ttype="B" pid="000">
+  <name>Dolor de cabeza</name>
+  <detail>Matar a 200 enemigos con disparos en la cabeza.</detail>
+ </trophy>
+ <trophy id="016" hidden="no" ttype="B" pid="000">
+  <name>De primera división</name>
+  <detail>Hacer 200 lanzamientos combo.</detail>
+ </trophy>
+ <trophy id="017" hidden="no" ttype="B" pid="000">
+  <name>Te mueves como Bruce Lee</name>
+  <detail>Hacer 100 ataques combo completos. (3 golpes consecutivos)</detail>
+ </trophy>
+ <trophy id="018" hidden="no" ttype="B" pid="000">
+  <name>Estilo ninja</name>
+  <detail>Filena ha matado a 50 enemigos.</detail>
+ </trophy>
+ <trophy id="019" hidden="yes" ttype="B" pid="000">
+  <name>Calma, firme...</name>
+  <detail>Disparar a un enemigo con un Lanzaplasma desde 50 m.</detail>
+ </trophy>
+ <trophy id="020" hidden="yes" ttype="B" pid="000">
+  <name>De cerca</name>
+  <detail>Matar a 100 enemigos con ataques melé usando el Hacha sangre.</detail>
+ </trophy>
+ <trophy id="021" hidden="yes" ttype="B" pid="000">
+  <name>Cinco pájaros de un tiro</name>
+  <detail>Matar a 5 enemigos con un disparo del Ifrit.</detail>
+ </trophy>
+ <trophy id="022" hidden="yes" ttype="S" pid="000">
+  <name>Asesino experto</name>
+  <detail>Matar a 10 enemigos con cualquiera de las armas que lleva Syd. (No sirven golpes melé)</detail>
+ </trophy>
+ <trophy id="023" hidden="no" ttype="B" pid="000">
+  <name>Cuestión de privacidad</name>
+  <detail>Destruir a 1 observador. (1/50)</detail>
+ </trophy>
+ <trophy id="024" hidden="no" ttype="S" pid="000">
+  <name>¡Deja de mirarme!</name>
+  <detail>Destruir a 20 observadores. (20/50)</detail>
+ </trophy>
+ <trophy id="025" hidden="no" ttype="G" pid="000">
+  <name>¡Déjame en paz!</name>
+  <detail>Destruir a 50 observadores. (50/50)</detail>
+ </trophy>
+ <trophy id="026" hidden="yes" ttype="B" pid="000">
+  <name>Exterminador profesional</name>
+  <detail>Matar a Gargantua en Difícil en 2 min 30 s, o menos.</detail>
+ </trophy>
+ <trophy id="027" hidden="yes" ttype="B" pid="000">
+  <name>Gladiador</name>
+  <detail>Matar a Titán en el nivel Tórax en Difícil en 1 min 30 s, o menos.</detail>
+ </trophy>
+ <trophy id="028" hidden="yes" ttype="B" pid="000">
+  <name>Guerrero</name>
+  <detail>Derrotar a Tánatos en Difícil en 1 min 30 s, o menos.</detail>
+ </trophy>
+ <trophy id="029" hidden="yes" ttype="B" pid="000">
+  <name>Matador</name>
+  <detail>Matar a Cronozado en Difícil en 2 min, o menos.</detail>
+ </trophy>
+ <trophy id="030" hidden="yes" ttype="B" pid="000">
+  <name>Nunca más</name>
+  <detail>Matar al Cuervo en Difícil en 2 min, o menos.</detail>
+ </trophy>
+ <trophy id="031" hidden="yes" ttype="B" pid="000">
+  <name>Entropía</name>
+  <detail>Derrotar a Tánatos (Tánatos II) en Difícil en 1 min 30 s, o menos.</detail>
+ </trophy>
+ <trophy id="032" hidden="yes" ttype="B" pid="000">
+  <name>Salvación</name>
+  <detail>Derrotar a Diablosis Soma (Tánatos III) en Difícil en 3 min 30 s, o menos.</detail>
+ </trophy>
+ <trophy id="033" hidden="yes" ttype="S" pid="000">
+  <name>Arma fiel</name>
+  <detail>Terminar la historia usando solamente el Resucitador.</detail>
+ </trophy>
+ <trophy id="034" hidden="yes" ttype="B" pid="000">
+  <name>¡Vaya amigo!</name>
+  <detail>Evitar que maten a algún compañero que esté colocando cargas en la batalla final de La matriz.</detail>
+ </trophy>
+ <trophy id="035" hidden="yes" ttype="B" pid="000">
+  <name>Volando con estilo</name>
+  <detail>Matar a todos los enemigos en Tráquea sin morir.</detail>
+ </trophy>
+ <trophy id="036" hidden="yes" ttype="B" pid="000">
+  <name>Ojo por ojo, disparo por disparo</name>
+  <detail>Disparar 10 proyectiles del Cuervo.</detail>
+ </trophy>
+ <trophy id="037" hidden="no" ttype="B" pid="000">
+  <name>Novicio</name>
+  <detail>Obtener el rango de novicio.</detail>
+ </trophy>
+ <trophy id="038" hidden="no" ttype="B" pid="000">
+  <name>Soldado</name>
+  <detail>Obtener el rango de soldado.</detail>
+ </trophy>
+ <trophy id="039" hidden="no" ttype="B" pid="000">
+  <name>Mercenario</name>
+  <detail>Obtener el rango de mercenario.</detail>
+ </trophy>
+ <trophy id="040" hidden="no" ttype="B" pid="000">
+  <name>Comando</name>
+  <detail>Obtener el rango de comando.</detail>
+ </trophy>
+ <trophy id="041" hidden="no" ttype="B" pid="000">
+  <name>Élite</name>
+  <detail>Obtener el rango de élite.</detail>
+ </trophy>
+ <trophy id="042" hidden="no" ttype="B" pid="000">
+  <name>Asesino</name>
+  <detail>Obtener el rango de asesino.</detail>
+ </trophy>
+ <trophy id="043" hidden="no" ttype="B" pid="000">
+  <name>Furia</name>
+  <detail>Obtener el rango de furia.</detail>
+ </trophy>
+ <trophy id="044" hidden="no" ttype="S" pid="000">
+  <name>Tormenta</name>
+  <detail>Obtener el rango de tormenta.</detail>
+ </trophy>
+ <trophy id="045" hidden="no" ttype="G" pid="000">
+  <name>Inmortal</name>
+  <detail>Obtener el rango de inmortal.</detail>
+ </trophy>
+ <trophy id="046" hidden="no" ttype="B" pid="000">
+  <name>Francotirador</name>
+  <detail>Matar a todos los miembros del equipo enemigo solo. (Partida en equipo de 8 jugs)&#x0a;</detail>
+ </trophy>
+ <trophy id="047" hidden="no" ttype="B" pid="000">
+  <name>Sólo míos</name>
+  <detail>Matar a todos los jugadores del Duelo a muerte de 8 jugs.</detail>
+ </trophy>
+ <trophy id="048" hidden="no" ttype="B" pid="000">
+  <name>Buena racha</name>
+  <detail>Matar a 10 oponentes seguidos en una partida.</detail>
+ </trophy>
+ <trophy id="049" hidden="no" ttype="B" pid="000">
+  <name>Matanza</name>
+  <detail>Matar a 20 oponentes en una partida.</detail>
+ </trophy>
+ <trophy id="050" hidden="no" ttype="B" pid="000">
+  <name>Triaje</name>
+  <detail>Reanimar a 10 miembros de equipo en una partida.</detail>
+ </trophy>
+</trophyconf>
